@@ -2,7 +2,7 @@
 
 Este repositório lista um conjunto diversificado de fontes de recursos multimédia, preferencialmente gratuitos e de utilização livre.
 
-Dada a natureza dinâmica da Internet, novos recursos serão adicionados à medida que forem sendo conhecidos. De igual forma, recursos que já não se encontrem ativos serão igualmente retirados.
+Dada a natureza dinâmica da Internet, novas fontes de recursos serão adicionadas à medida que forem sendo conhecidas. De igual forma, fontes de recursos que já não se encontrem ativas serão igualmente retiradas.
 
 As fontes de recursos encontram-se divididas nas seguintes categorias:
 
