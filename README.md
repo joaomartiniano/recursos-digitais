@@ -8,7 +8,7 @@ As fontes de recursos encontram-se divididas nas seguintes categorias:
 
 - [imagem](#imagem)
 - arte
-- imagens/ilustrações vetoriais
+- [imagens/ilustrações vetoriais](#vetoriais)
 - [vídeo](#video)
 - [música e som](#musicasom)
 - [livros](#livros)
@@ -27,6 +27,14 @@ Os seguintes sites possuem grande número de imagens (na ordem dos milhões em a
 |**[Pixabay](https://pixabay.com/)**|<img src="imagens/pixabay.png">|
 |**[PxHere](https://pxhere.com/)**|<img src="imagens/pxhere.png">|
 |**[StockSnap.io](https://stocksnap.io/)**|<img src="imagens/stocksnap-io.png">|
+
+## <a id="vetoriais">Imagens/Ilustrações Vetoriais</a>
+
+As imagens vetoriais caracterizam-se por serem compostas por formas geométricas, definidas matematicamente. Ao contrário das imagens fotográficas (também conhecidas como imagens raster), as imagens vetoriais podem ser manipuladas sem perda de qualidade e requerem aplicativos informáticos específicos (por exemplo: [Inkscape](https://inkscape.org/), [Adobe Illustrator](https://www.adobe.com/pt/products/illustrator.html), etc.).
+
+|||
+|-|-|
+|**[Open Clipart](https://openclipart.org/)**<br>Milhares de imagens vetoriais de utilização livre|<img src="imagens/openclipart.png">|
 
 ## <a id="video">Vídeo</a>
 
