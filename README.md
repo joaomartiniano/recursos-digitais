@@ -21,12 +21,12 @@ Os seguintes sites possuem grande número de imagens (na ordem dos milhões em a
 
 |Site||
 |---|---|
-|**[Unsplash](https://unsplash.com/)**|<img src="imagens/unsplash.png">|
-|**[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)**|<img src="imagens/wikimedia.png">|
-|**[Pexels](https://www.pexels.com/)**|<img src="imagens/pexels.png">|
-|**[Pixabay](https://pixabay.com/)**|<img src="imagens/pixabay.png">|
-|**[PxHere](https://pxhere.com/)**|<img src="imagens/pxhere.png">|
-|**[StockSnap.io](https://stocksnap.io/)**|<img src="imagens/stocksnap-io.png">|
+|**[Unsplash](https://unsplash.com/)**|<img src="imagens/unsplash.png" alt="Unsplash">|
+|**[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)**|<img src="imagens/wikimedia.png" alt="Wikimedia Commons">|
+|**[Pexels](https://www.pexels.com/)**|<img src="imagens/pexels.png" alt="Pexels">|
+|**[Pixabay](https://pixabay.com/)**|<img src="imagens/pixabay.png" alt="Pixabay">|
+|**[PxHere](https://pxhere.com/)**|<img src="imagens/pxhere.png" alt="PxHere">|
+|**[StockSnap.io](https://stocksnap.io/)**|<img src="imagens/stocksnap-io.png" alt="StockSnap.io">|
 
 ## <a id="arte">Arte</a>
 
