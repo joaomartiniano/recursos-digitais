@@ -34,10 +34,10 @@ Os sites das seguintes instituições disponibilizam um grande acervo de vários
 
 |||
 |---|---|
-|**[Rijksmuseum](https://www.rijksmuseum.nl/en)**<br>Disponibiliza imagens de altíssima resolução de grande parte do seu vasto acervo|<img src="imagens/rijksmuseum.png">|
-|**[Europeana](https://www.europeana.eu/pt)**<br>Grande repositório digital do património cultural da Europa|<img src="imagens/europeana.png">|
-|**[Louvre](https://www.louvre.fr/en)**|<img src="imagens/louvre.png">|
-|**[Old Book Illustrations](https://www.oldbookillustrations.com/)**<br>Ilustrações retiradas de livros antigos|<img src="imagens/old-book-illustrations.png">|
+|**[Rijksmuseum](https://www.rijksmuseum.nl/en)**<br>Disponibiliza imagens de altíssima resolução de grande parte do seu vasto acervo|<img src="imagens/rijksmuseum.png" alt="Rijksmuseum">|
+|**[Europeana](https://www.europeana.eu/pt)**<br>Grande repositório digital do património cultural da Europa|<img src="imagens/europeana.png" alt="Europeana">|
+|**[Louvre](https://www.louvre.fr/en)**|<img src="imagens/louvre.png" alt="Louvre">|
+|**[Old Book Illustrations](https://www.oldbookillustrations.com/)**<br>Ilustrações retiradas de livros antigos|<img src="imagens/old-book-illustrations.png" alt="Old Book Illustrations">|
 
 
 ## <a id="vetoriais">Imagens/Ilustrações Vetoriais</a>
@@ -48,30 +48,30 @@ Os seguintes sites disponibilizam um grande número de imagens vetoriais, impond
 
 |Site||
 |---|---|
-|**[Open Clipart](https://openclipart.org/)**|<img src="imagens/openclipart.png">|
-|**[Freepik](https://www.freepik.com/vectors)**|<img src="imagens/freepik.png">|
+|**[Open Clipart](https://openclipart.org/)**|<img src="imagens/openclipart.png" alt="Open Clipart">|
+|**[Freepik](https://www.freepik.com/vectors)**|<img src="imagens/freepik.png" alt="Freepik">|
 
 ## <a id="video">Vídeo</a>
 
 |Site||
 |---|---|
-|**[Pexels](https://www.pexels.com/videos/)**|<img src="imagens/pexels-video.png">|
+|**[Pexels](https://www.pexels.com/videos/)**|<img src="imagens/pexels-video.png" alt="Pexels">|
 
 ## <a id="musicasom">Música e Som</a>
 
 |Site||
 |---|---|
-|**[BBC Sound Effects Archive](https://sound-effects.bbcrewind.co.uk/)**<br>Clips de som de variados tipos|<img src="imagens/bbc-sound-effects.png">|
-|**[Free Music Archive](https://freemusicarchive.org/)**<br>Fornece acesso a música de artistas independentes|<img src="imagens/free-music-archive.png">|
+|**[BBC Sound Effects Archive](https://sound-effects.bbcrewind.co.uk/)**<br>Clips de som de variados tipos|<img src="imagens/bbc-sound-effects.png" alt="BBC Sound Effects Archive">|
+|**[Free Music Archive](https://freemusicarchive.org/)**<br>Fornece acesso a música de artistas independentes|<img src="imagens/free-music-archive.png" alt="Free Music Archive">|
 
 ## <a id="livros">Livros</a>
 
 |Site||
 |---|---|
-|**[Project Gutenberg](https://www.gutenberg.org/)**<br>Biblioteca de livros em formato eletrónico e que estão no domínio público|<img src="imagens/project-gutenberg.png">|
+|**[Project Gutenberg](https://www.gutenberg.org/)**<br>Biblioteca de livros em formato eletrónico e que estão no domínio público|<img src="imagens/project-gutenberg.png" alt="Project Gutenberg">|
 
 ## <a id="variados">Variados</a>
 
 |Site||
 |---|---|
-|**[Internet Archive](https://archive.org/)**<br>Gigantesco repositório de websites, livros, revistas, áudio, vídeo, software, etc.|<img src="imagens/internet-archive.png">|
+|**[Internet Archive](https://archive.org/)**<br>Gigantesco repositório de websites, livros, revistas, áudio, vídeo, software, etc.|<img src="imagens/internet-archive.png" alt="Internet Archive">|
