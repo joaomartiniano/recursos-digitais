@@ -34,8 +34,10 @@ Os sites das seguintes instituições disponibilizam um grande acervo de vários
 
 |||
 |---|---|
-
-
+|**[Rijksmuseum](https://www.rijksmuseum.nl/en)**<br>Disponibiliza imagens de altíssima resolução de grande parte do seu vasto acervo|<img src="imagens/rijksmuseum.png">|
+|**[Europeana](https://www.europeana.eu/pt)**<br>Grande repositório digital do património cultural da Europa|<img src="imagens/europeana.png">|
+|**[Louvre](https://www.louvre.fr/en)**|<img src="imagens/louvre.png">|
+|**[Old Book Illustrations](https://www.oldbookillustrations.com/)**<br>Ilustrações retiradas de livros antigos|<img src="imagens/old-book-illustrations.png">|
 
 
 ## <a id="vetoriais">Imagens/Ilustrações Vetoriais</a>
@@ -44,7 +46,7 @@ As imagens vetoriais caracterizam-se por serem compostas por formas geométricas
 
 Os seguintes sites disponibilizam um grande número de imagens vetoriais, impondo diferentes condições na sua utilização.
 
-|||
+|Site||
 |---|---|
 |**[Open Clipart](https://openclipart.org/)**|<img src="imagens/openclipart.png">|
 |**[Freepik](https://www.freepik.com/vectors)**|<img src="imagens/freepik.png">|
