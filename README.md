@@ -7,7 +7,7 @@ Dada a natureza dinâmica da Internet, novas fontes de recursos serão adicionad
 As fontes de recursos encontram-se divididas nas seguintes categorias:
 
 - [imagem](#imagem)
-- arte
+- [arte](#arte)
 - [imagens/ilustrações vetoriais](#vetoriais)
 - [vídeo](#video)
 - [música e som](#musicasom)
@@ -27,6 +27,16 @@ Os seguintes sites possuem grande número de imagens (na ordem dos milhões em a
 |**[Pixabay](https://pixabay.com/)**|<img src="imagens/pixabay.png">|
 |**[PxHere](https://pxhere.com/)**|<img src="imagens/pxhere.png">|
 |**[StockSnap.io](https://stocksnap.io/)**|<img src="imagens/stocksnap-io.png">|
+
+## <a id="arte">Arte</a>
+
+Os sites das seguintes instituições disponibilizam um grande acervo de vários tipos de obras (pintura, fotografia, escultura, etc.).
+
+|||
+|---|---|
+
+
+
 
 ## <a id="vetoriais">Imagens/Ilustrações Vetoriais</a>
 
