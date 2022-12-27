@@ -45,7 +45,7 @@ As imagens vetoriais caracterizam-se por serem compostas por formas geométricas
 Os seguintes sites disponibilizam um grande número de imagens vetoriais, impondo diferentes condições na sua utilização.
 
 |||
-|-|-|
+|---|---|
 |**[Open Clipart](https://openclipart.org/)**|<img src="imagens/openclipart.png">|
 |**[Freepik](https://www.freepik.com/vectors)**|<img src="imagens/freepik.png">|
 
