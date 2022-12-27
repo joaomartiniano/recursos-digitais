@@ -32,9 +32,12 @@ Os seguintes sites possuem grande número de imagens (na ordem dos milhões em a
 
 As imagens vetoriais caracterizam-se por serem compostas por formas geométricas, definidas matematicamente. Ao contrário das imagens fotográficas (também conhecidas como imagens raster), as imagens vetoriais podem ser manipuladas sem perda de qualidade e requerem aplicativos informáticos específicos (por exemplo: [Inkscape](https://inkscape.org/), [Adobe Illustrator](https://www.adobe.com/pt/products/illustrator.html), etc.).
 
+Os seguintes sites disponibilizam um grande número de imagens vetoriais, impondo diferentes condições na sua utilização.
+
 |||
 |-|-|
-|**[Open Clipart](https://openclipart.org/)**<br>Milhares de imagens vetoriais de utilização livre|<img src="imagens/openclipart.png">|
+|**[Open Clipart](https://openclipart.org/)**|<img src="imagens/openclipart.png">|
+|**[Freepik](https://www.freepik.com/vectors)**|<img src="imagens/freepik.png">|
 
 ## <a id="video">Vídeo</a>
 
