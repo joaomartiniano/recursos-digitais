@@ -30,12 +30,13 @@ Os seguintes sites possuem grande número de imagens (na ordem dos milhões em a
 
 ## <a id="arte">Arte</a>
 
-Os sites das seguintes instituições disponibilizam um grande acervo de vários tipos de obras (pintura, fotografia, escultura, etc.).
+Os sites das seguintes instituições disponibilizam vários tipos de obras (pintura, fotografia, escultura, cerâmica, têxteis, etc.).
 
 |||
 |---|---|
-|**[Rijksmuseum](https://www.rijksmuseum.nl/en)**<br>Disponibiliza imagens de altíssima resolução de grande parte do seu vasto acervo|<img src="imagens/rijksmuseum.png" alt="Rijksmuseum">|
+|**[Rijksmuseum](https://www.rijksmuseum.nl/en)**<br>Disponibiliza imagens de altíssima resolução do seu vasto acervo|<img src="imagens/rijksmuseum.png" alt="Rijksmuseum">|
 |**[Europeana](https://www.europeana.eu/pt)**<br>Grande repositório digital do património cultural da Europa|<img src="imagens/europeana.png" alt="Europeana">|
+|**[The British Museum](https://www.britishmuseum.org/)**|<img src="imagens/british-museum.png" alt="The British Musem">|
 |**[Louvre](https://www.louvre.fr/en)**|<img src="imagens/louvre.png" alt="Louvre">|
 |**[Old Book Illustrations](https://www.oldbookillustrations.com/)**<br>Ilustrações retiradas de livros antigos|<img src="imagens/old-book-illustrations.png" alt="Old Book Illustrations">|
 
