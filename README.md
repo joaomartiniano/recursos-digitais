@@ -67,6 +67,7 @@ Os seguintes sites disponibilizam um grande número de imagens vetoriais, impond
 |---|---|
 |**[BBC Sound Effects Archive](https://sound-effects.bbcrewind.co.uk/)**<br>Clips de som de variados tipos|<img src="imagens/bbc-sound-effects.png" alt="BBC Sound Effects Archive">|
 |**[Free Music Archive](https://freemusicarchive.org/)**<br>Fornece acesso a música de artistas independentes|<img src="imagens/free-music-archive.png" alt="Free Music Archive">|
+|**[Freesound](https://freesound.org/)**<br>Disponibiliza uma grande variedade de sons gratuitos e de utilização livre|<img src="imagens/freesound.png" alt="Freesound">|
 
 ## <a id="livros">Livros</a>
 
