@@ -12,7 +12,7 @@ As fontes de recursos encontram-se divididas nas seguintes categorias:
 - [vídeo](#video)
 - [música e som](#musicasom)
 - [livros](#livros)
-- [variados](#variados)
+- [outros](#outros)
 
 
 ## <a id="imagem">Imagem</a>
@@ -74,8 +74,9 @@ Os seguintes sites disponibilizam um grande número de imagens vetoriais, impond
 |---|---|
 |**[Project Gutenberg](https://www.gutenberg.org/)**<br>Biblioteca de livros em formato eletrónico e que estão no domínio público|<img src="imagens/project-gutenberg.png" alt="Project Gutenberg">|
 
-## <a id="variados">Variados</a>
+## <a id="outros">Outros</a>
 
 |Site||
 |---|---|
 |**[Internet Archive](https://archive.org/)**<br>Gigantesco repositório de websites, livros, revistas, áudio, vídeo, software, etc.|<img src="imagens/internet-archive.png" alt="Internet Archive">|
+|**[OpenGameArt.org](https://opengameart.org/)**<br>Repositório de recursos gratuitos e de utilização livre para criação de jogos (imagens, sons, música, tutoriais, etc.)|<img src="imagens/open-game-art.png" alt="OpenGameArt.org">|
