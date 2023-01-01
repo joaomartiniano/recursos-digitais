@@ -38,7 +38,10 @@ Os sites das seguintes instituições disponibilizam vários tipos de obras (pin
 |**[Europeana](https://www.europeana.eu/pt)**<br>Grande repositório digital do património cultural da Europa|<img src="imagens/europeana.png" alt="Europeana">|
 |**[The British Museum](https://www.britishmuseum.org/)**|<img src="imagens/british-museum.png" alt="The British Musem">|
 |**[Louvre](https://www.louvre.fr/en)**|<img src="imagens/louvre.png" alt="Louvre">|
+|**[The New York Public Library Digital Collections](https://digitalcollections.nypl.org/)**|<img src="imagens/new-york-public-library.png" alt="The New York Public Library">|
 |**[Old Book Illustrations](https://www.oldbookillustrations.com/)**<br>Ilustrações retiradas de livros antigos|<img src="imagens/old-book-illustrations.png" alt="Old Book Illustrations">|
+|**[Artvee](https://artvee.com/)**<br>Agregador de imagens de diferentes instituições|<img src="imagens/artvee.png" alt="Artvee">|
+
 
 
 ## <a id="vetoriais">Imagens/Ilustrações Vetoriais</a>
