@@ -79,5 +79,5 @@ Os seguintes sites disponibilizam um grande número de imagens vetoriais, impond
 
 |Site||
 |---|---|
-|**[Internet Archive](https://archive.org/)**<br>Gigantesco repositório de websites, livros, revistas, áudio, vídeo, software, etc.|<img src="imagens/internet-archive.png" alt="Internet Archive">|
-|**[OpenGameArt.org](https://opengameart.org/)**<br>Repositório de recursos gratuitos e de utilização livre para criação de jogos (imagens, sons, música, tutoriais, etc.)|<img src="imagens/open-game-art.png" alt="OpenGameArt.org">|
+|**[Internet Archive](https://archive.org/)**<br>Gigantesco repositório de websites, livros, revistas, áudio, vídeo, software, etc.|<a href="https://archive.org/"><img src="imagens/internet-archive.png" alt="Internet Archive"></a>|
+|**[OpenGameArt.org](https://opengameart.org/)**<br>Repositório de recursos gratuitos e de utilização livre para criação de jogos (imagens, sons, música, tutoriais, etc.)|<a href="https://opengameart.org/"><img src="imagens/open-game-art.png" alt="OpenGameArt.org"></a>|
