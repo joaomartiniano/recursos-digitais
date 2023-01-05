@@ -38,7 +38,7 @@ Os sites das seguintes instituições disponibilizam vários tipos de obras (pin
 |**[Europeana](https://www.europeana.eu/pt)**<br>Grande repositório digital do património cultural da Europa|<a href="https://www.europeana.eu/pt" target="_blank"><img src="imagens/europeana.png" alt="Europeana"></a>|
 |**[The British Museum](https://www.britishmuseum.org/)**|<a href="https://www.britishmuseum.org/" target="_blank"><img src="imagens/british-museum.png" alt="The British Musem">|
 |**[Louvre](https://www.louvre.fr/en)**|<a href="https://www.louvre.fr/en" target="_blank"><img src="imagens/louvre.png" alt="Louvre"></a>|
-|**[The New York Public Library Digital Collections](https://digitalcollections.nypl.org/)**|<a href="https://www.louvre.fr/en" target="_blank"><img src="imagens/new-york-public-library.png" alt="The New York Public Library"></a>|
+|**[The New York Public Library Digital Collections](https://digitalcollections.nypl.org/)**|<a href="https://digitalcollections.nypl.org/" target="_blank"><img src="imagens/new-york-public-library.png" alt="The New York Public Library"></a>|
 |**[Old Book Illustrations](https://www.oldbookillustrations.com/)**<br>Ilustrações retiradas de livros antigos|<a href="https://www.oldbookillustrations.com/" target="_blank"><img src="imagens/old-book-illustrations.png" alt="Old Book Illustrations"></a>|
 |**[Artvee](https://artvee.com/)**<br>Agregador de imagens de diferentes instituições|<a href="https://artvee.com/" target="_blank"><img src="imagens/artvee.png" alt="Artvee"></a>|
 |**[Art UK](https://artuk.org/)**<br>Agregador de obras de arte de diferentes instituições do Reino Unido|<a href="https://artuk.org/" target="_blank"><img src="imagens/art-uk.png" alt="Art UK"></a>|
